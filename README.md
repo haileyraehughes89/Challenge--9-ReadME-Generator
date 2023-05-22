@@ -1,6 +1,4 @@
-
-  # Project 9: ReadMe Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+# README GENERATOR
 
 ## Description
 
@@ -30,10 +28,11 @@
 </li>
 </div>
 
-
 ## Usage
+
 <span id="usage" style="color:#F4F1BB">
-  Usage pending...
+  ![work](./assets/images/screenshot.jpg)
+
 </span>
 
 ## Credits
@@ -42,20 +41,18 @@
   no credits
 </span>
 
-## Questions: 
+## Questions:
 
-- Email: 
-<a id="#questions" href="https://www.google.com/" style="color: #E85F5C">haileyraehughes89@gmail.com</a>
-
+- Email:
+  <a id="#questions" href="https://www.google.com/" style="color: #E85F5C"></a>
 
 - GitHub:
-<a href="https://www.google.com/" style="color: #E85F5C">https://github.com/haileyraehughes89</a>
+  <a href="https://www.google.com/" style="color: #E85F5C">https://github.com/</a>
 
 ## Features
 
 <span id="features" style="color:#F4F1BB">
   ""
 </span>
-
 
 ## Tests
