@@ -42,9 +42,9 @@ function generateMarkdown({
 
 
 ## Usage
-<span id="usage" style="color:#F4F1BB">
+
   ${projectUsage}
-</span>
+
 
 ## Credits
 
